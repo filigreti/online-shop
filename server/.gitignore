@@ -4,6 +4,6 @@
 .DS_Store
 
 npm-debug.log*
-
+dev.js
 .vscode
 .env
